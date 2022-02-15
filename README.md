@@ -10,7 +10,7 @@ The learner has to configure small-scale networks. Ranging over 10 levels with i
 
 My first intro to networking in general. Next to some of the basic principles and buzz words of networking (like ISO/OSI Modell, TCP/IP, IPv4, IPv6,...) I specifically learned a lot about subnetting and how to distribute IP numbers among different subnets.
 
-### Acknowledgments
+### Resources
 
 Great sources to get a basic understanding:
 * [HTB 'Introduction to Networking'](https://academy.hackthebox.com/course/preview/introduction-to-networking)
